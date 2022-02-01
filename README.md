@@ -10,4 +10,4 @@ Practice with ❤︎ and :coffee: [Deepak Rajpurohit](https://github.com/Avinash
 
 # Available Practices
 
-- [Cohesion and Coupling]() 
+- [Cohesion and Coupling](https://github.com/AvinashRajPurohit/python-best-practices/blob/master/cohesion_coupling.py) 
